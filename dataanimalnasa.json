@@ -1,7 +1,7 @@
 [
   {
     "ID": 1,
-    "imageAnimal": "https://drive.google.com/file/d/1V7XRXV92SY7Az2tVOCJdj4QK7uSxNydH/view?usp=drive_link",
+    "imageAnimal": "./imageMaps/ImageMapsawfish.jpeg",
     "name": "Smalltooth Sawfish",
     "nameCien": "Pristis pristis",
     "Size": "From 3 to 7 meters",
